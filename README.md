@@ -1,2 +1,2 @@
 # VR-Tele-communication-System
-WorkerSystem &amp; OperatorSystem
+一部スクリプト等のみ記載
